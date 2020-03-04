@@ -87,7 +87,7 @@ a[href*="http"] {
   background-size: 16px 16px;
 }
 
-a: link, a:visited {
+a:link, a:visited {
   color: #a66;
 }
 
