@@ -13,7 +13,8 @@ body {
 /* Layout */
 
 section {
-
+  float: left;
+  width: 50%;
 }
 
 main {
@@ -21,15 +22,17 @@ main {
 }
 
 aside {
-
+float: left;
+width: 25%;
 }
 
 nav {
-
+float: left;
+width: 20%;
 }
 
 footer {
-
+clear: both;
 }
 
 header, section, aside, nav, footer {
