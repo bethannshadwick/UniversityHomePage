@@ -23,7 +23,7 @@ main {
 
 aside {
 float: left;
-width: 25%;
+width: 30%;
 }
 
 nav {
@@ -73,7 +73,7 @@ section h2 + p {
 p, li {
   font-size: 2rem;
   line-height: 1.5;
-  letter-spacing: 1px;
+  letter-spacing: 0.5px;
   word-spacing: 2px;
 }
 
@@ -108,7 +108,7 @@ ul, ol {
 }
 
 ul {
-  list-style-type: square;
+   list-style-type: square;
 }
 
 ol {
