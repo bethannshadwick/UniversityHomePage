@@ -73,6 +73,7 @@ p, li {
   line-height: 1.5;
   letter-spacing: 0.5px;
   word-spacing: 2px;
+  flex: 1 200px;
 }
 
 a {
