@@ -26,8 +26,8 @@ section {
 }
 
 aside {
-display: flex;
-flex-wrap: wrap;
+float: left;
+width: 30%;
 }
 
 nav {
