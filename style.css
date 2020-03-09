@@ -116,6 +116,10 @@ nav ul {
   margin-top: 1rem;
 }
 
+section {
+  display: flex;
+}
+
 nav li {
   list-style-type: none;
   margin-bottom: 2rem;
@@ -139,8 +143,4 @@ nav li a:focus, nav li a:hover {
 nav li a:active {
   color: white;
   background: black;
-}
-
-section {
-  display: flex;
 }
