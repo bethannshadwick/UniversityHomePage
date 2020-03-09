@@ -27,6 +27,7 @@ width: 30%;
 nav {
 float: left;
 width: 20%;
+justify-content: space-around;
 }
 
 footer {
