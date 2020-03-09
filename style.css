@@ -140,3 +140,7 @@ nav li a:active {
   color: white;
   background: black;
 }
+
+section {
+  display: flex;
+}
