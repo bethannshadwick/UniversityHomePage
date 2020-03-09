@@ -12,6 +12,12 @@ body {
 
 /* Layout */
 
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 section {
   display: flex;
   flex-wrap: wrap;
