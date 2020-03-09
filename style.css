@@ -13,6 +13,8 @@ body {
 /* Layout */
 
 section {
+  display: flex;
+  flex-wrap: wrap;
   float: left;
   width: 50%;
 }
